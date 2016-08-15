@@ -1,0 +1,7 @@
+Ќапишите функцию checkSpam(str), котора€ возвращает true, если строка str содержит ДviagraУ или ДXXXУ, а иначе false.
+
+‘ункци€ должна быть нечувствительна к регистру:
+
+checkSpam('buy ViAgRA now') == true
+checkSpam('free xxxxx') == true
+checkSpam("innocent rabbit") == false
