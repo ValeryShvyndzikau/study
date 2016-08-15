@@ -1,0 +1,70 @@
+﻿UI PDP:
+
+1. JavaScript global description (4 hours)
+AGENDA: All info about JavaScript, ECMA script, typing, advantages, disadvantages etc. )
+
+2. DATA TYPES: (40 hours)
+AGENDA: All info about DATA TYPES, aproaches for detecting types, retrieving cases, 
+methods for dealing with each data type, ECMA script 5 methods)
+
+    - plain objects, JSON
+    - arrays
+    - functions
+
+    - string
+    - number
+    - boolean
+    - undefined (ceses for retrieve)
+    - null
+
+   --------------------------------
+    - special objects:
+      - Math
+      - Date
+      - RegEx
+      - Boolean
+      - String
+      - Number
+      - Function
+
+
+3. BROWSER OBJECTS BOM: (16 hours)
+AGENDA: all methods regarding the each object
+
+    - window
+    - screen
+    - location
+    - history
+    - navigator
+    - popup alerts, promts
+    - timing
+    - cookies
+
+
+4. DOM: (16 hours)
+AGENDA: all main methods for dealing with DOM
+
+    - document
+    - elements
+    - HTML
+    - CSS
+    - events
+    - event listener
+    - navigation
+    - nodes
+    - nodelist
+
+5. AJAX: (16 hours)
+AGENDA: HTTP protocol (base info, types of requests), AJAX API
+
+6. Module pattern
+
+7. jQuery
+
+8. underscorejs 
+
+9. requirejs
+
+10. less
+
+11. backbone
